@@ -364,6 +364,7 @@ footer {
 
     .footer__container {
         grid-column: 1/13;
+        width: 100%;
     }
 
     .footer__items,
